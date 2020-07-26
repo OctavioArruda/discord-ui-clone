@@ -39,10 +39,10 @@
     <meta property="og:image" content="https://avatars2.githubusercontent.com/u/28929274?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Rocketseat/youtube-clone-discord" /><meta property="og:url" content="https://github.com/Rocketseat/youtube-clone-discord" /><meta property="og:description" content="Discord UI clone for study purposes. Contribute to Rocketseat/youtube-clone-discord development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/32399013/ws?session=eyJ2IjoiVjMiLCJ1IjozMjM5OTAxMywicyI6NTQ3NTAxMzg4LCJjIjozMDE2Njc3MTk2LCJ0IjoxNTk1NzczNDU3fQ==--b011e455b653ffecd219996f345cebe1b331f07066bd05b02dbaf06c495d582f" data-refresh-url="/_ws">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/32399013/ws?session=eyJ2IjoiVjMiLCJ1IjozMjM5OTAxMywicyI6NTQ3NTAxMzg4LCJjIjoxMzQ1MDIxMDk0LCJ0IjoxNTk1Nzc0NzgyfQ==--8d8b61b35aae92954c414daafca6e2d9b415959adb23c0b70e8379b54db9e3df" data-refresh-url="/_ws">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="4872:54A0:92B81A:BEFF22:5F1D920E" data-pjax-transient="true" /><meta name="html-safe-nonce" content="97eee8c203a75435214779fd338f995f490aff6c" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9Sb2NrZXRzZWF0L3lvdXR1YmUtY2xvbmUtZGlzY29yZC90cmVlL21hc3Rlci9zcmMvYXNzZXRzIiwicmVxdWVzdF9pZCI6IjQ4NzI6NTRBMDo5MkI4MUE6QkVGRjIyOjVGMUQ5MjBFIiwidmlzaXRvcl9pZCI6Ijg1MjE1ODUxNDk3NjM3MDc1MDAiLCJyZWdpb25fZWRnZSI6InNhLWVhc3QtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="2690c34936371e25a0c58206eaa64b77960479faeb470aab062dea7fc998dbeb" data-pjax-transient="true" />
+  <meta name="request-id" content="488A:3D06:96DA85:C40695:5F1D973B" data-pjax-transient="true" /><meta name="html-safe-nonce" content="97eee8c203a75435214779fd338f995f490aff6c" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9Sb2NrZXRzZWF0L3lvdXR1YmUtY2xvbmUtZGlzY29yZC90cmVlL21hc3Rlci9zcmMvYXNzZXRzIiwicmVxdWVzdF9pZCI6IjQ4OEE6M0QwNjo5NkRBODU6QzQwNjk1OjVGMUQ5NzNCIiwidmlzaXRvcl9pZCI6Ijg1MjE1ODUxNDk3NjM3MDc1MDAiLCJyZWdpb25fZWRnZSI6InNhLWVhc3QtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="b719e6be405ebbf9ec2bdbec0a033c85ddfb42adacb1caaf1bdd4f4849be720f" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:272836174" data-pjax-transient>
 
@@ -85,7 +85,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MWQwNzQ4MWM4MTBmZDY3ZGU1NWY0Yjk2ZmFmZTRkMjNkYTgwNWU2NWVkMjQwY2E5OTU3MGFiNGY1NGEzNTI2Nnx7InJlbW90ZV9hZGRyZXNzIjoiMTg5LjYuMjQ0LjE5NSIsInJlcXVlc3RfaWQiOiI0ODcyOjU0QTA6OTJCODFBOkJFRkYyMjo1RjFEOTIwRSIsInRpbWVzdGFtcCI6MTU5NTc3MzQ1NywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="YjM0NDBhOWI4MjQ5ZjZlODA0YjgxYWNiMDllZWU5Nzg0YmQ4OTMyNDYwMTVmYjg4ZTBjN2QwZDI3MDRkZWNhNXx7InJlbW90ZV9hZGRyZXNzIjoiMTg5LjYuMjQ0LjE5NSIsInJlcXVlc3RfaWQiOiI0ODhBOjNEMDY6OTZEQTg1OkM0MDY5NTo1RjFEOTczQiIsInRpbWVzdGFtcCI6MTU5NTc3NDc4MiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,ACTIONS_DEFAULT_BRANCH_WARNING">
 
@@ -175,7 +175,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="vq7gENrJ41bn0SqGaYGk9FtgIe98Wb6Jn7KQBVDefiDNq+BEAMaH6KHajfaFscctupXw2EkY6ERemphTRlb+ng==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="NU1TDfuskqg9txosnsRNen5wtV9tcv+I/mKWtp7GYTJGSFNZIaP2Fnu8vVxy9C6jn4VkaFgzqUU/Sp7giE7hjA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -326,7 +326,7 @@
       <img class="avatar avatar-user" src="https://avatars0.githubusercontent.com/u/32399013?s=40&amp;v=4" width="20" height="20" alt="@Schifer" />
       Schifer
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KyZtNZH8vwtvYyCVeGPtNMm2YbcjYil+9J61vAsuC773q1VkHHnQhDcTXfERb0BoatAdpkFZ18HvggyhxjeN5g==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Ar42Ts26AFuXDDfMEeirx/QvAznOf9KBKESCloaUBv7eMw4fQD9v1M98Sqh45AabV0l/KKxELD4zWDuLS42Apg==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -345,7 +345,7 @@
 
   <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
     
-    <a aria-label="You have unread notifications" class="Header-link notification-indicator position-relative tooltipped tooltipped-sw js-socket-channel js-notification-indicator" data-hotkey="g n" data-ga-click="Header, go to notifications, icon:unread" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MzIzOTkwMTMiLCJ0IjoxNTk1NzczNDU4fQ==--52fa00622f05cee7840488a9cb6344f6a888c24cab38c83f13cd5f3353cfb5e4" href="/notifications">
+    <a aria-label="You have unread notifications" class="Header-link notification-indicator position-relative tooltipped tooltipped-sw js-socket-channel js-notification-indicator" data-hotkey="g n" data-ga-click="Header, go to notifications, icon:unread" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MzIzOTkwMTMiLCJ0IjoxNTk1Nzc0NzgyfQ==--f233fd392637b12df0fdb7d65d9e724ac421b0d2f4c6455fbc1ea682ebb1db36" href="/notifications">
         <span class="js-indicator-modifier mail-status unread"></span>
         <svg class="octicon octicon-bell" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path></svg>
 </a>
@@ -437,7 +437,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="6+B0iJlVt6IVlPbYhkoILzR//nHaHYtyzx8rsRikKvDTvs55+Ka5U3+E4ZpaxqXaZCLd9BoJhs7sdOd6p8pBsQ==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="/R/KHQCm8tIH98bqozGZ2wNXCnaKWi8JMbrn9Ps+NG/FQXDsYVX8I23n0ah/vTQuUwop80pOIrUS0Ss/RFBfLg==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
@@ -555,17 +555,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-07-26T11:54:18-03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-07-26T12:16:22-03:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-07-26T12:24:18-03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-07-26T12:46:22-03:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-07-26T15:24:18-03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-07-26T15:46:22-03:00">
             in 4 hours
           </button>
         </li>
@@ -644,12 +644,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/Rocketseat/youtube-clone-discord/blob/master/src/assets/Logo.svg&quot;,&quot;target&quot;:&quot;HELP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Rocketseat/youtube-clone-discord/blob/master/src/assets/Logo.svg&quot;,&quot;user_id&quot;:32399013}}" data-hydro-click-hmac="9f16ebfef12ddbda05a95ea5c2459bede79b3768cf15229b3b40b9394eb5cac7" >Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/Rocketseat/youtube-clone-discord/blob/master/src/assets/Logo.svg&quot;,&quot;target&quot;:&quot;SETTINGS&quot;,&quot;originating_url&quot;:&quot;https://github.com/Rocketseat/youtube-clone-discord/blob/master/src/assets/Logo.svg&quot;,&quot;user_id&quot;:32399013}}" data-hydro-click-hmac="4e3e465b9d55b007596a9c8cbe7bbfb0bd095305db9cdf9ec085140a82ade3d2" >Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zMaWlQ6R8KxhAkqg7/M8M1DYC1i/DFfxrLYIDC9Oo3gQS67EgxSfIzlyN8SG/5Fv8753Sd03qU63qrER4lclIA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qtxCfsu2Sls/J/HvqUx0ZyZO/ajFXoAkmIw1D1k2WPN2UXovRjMl1GdXjIvAQNk7hSiBuadlfpuDkIwSlC/eqw==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/Rocketseat/youtube-clone-discord/blob/master/src/assets/Logo.svg&quot;,&quot;target&quot;:&quot;SIGN_OUT&quot;,&quot;originating_url&quot;:&quot;https://github.com/Rocketseat/youtube-clone-discord/blob/master/src/assets/Logo.svg&quot;,&quot;user_id&quot;:32399013}}" data-hydro-click-hmac="473389b7c6d65794444ec3c36974850b3afb7ac8a81c9014a7fd218725fe3529"  role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_9b83" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1595773458027" class="form-control" /><input type="hidden" name="timestamp_secret" value="9b8ed303ee123b00ed62dd89e29c72c720d0e11a48c37552b350befa8931f786" class="form-control" />
+      <input type="text" name="required_field_4988" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1595774782477" class="form-control" /><input type="hidden" name="timestamp_secret" value="2c11a98a2136678ba20d5d04eb8d343e21dec9061cf4ee66192e183c7c8fcf47" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -737,7 +737,7 @@
       <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-        <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gozkMVZR+e8NY5Q9jzv9FlapG2q1U8EoT2G1V1FBKDa1pMxLphcpT4yhuuJazVVSng5XLTW8F423luArqlcAnQ==" />      <input type="hidden" name="repository_id" value="272836174">
+        <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1igJVhbi6zpztMMXZfo2sS509SpWSynwkW7Kku/BoRrhACEs5qQ7mvJ27ciwDJ715tO5bdak/1VpmZ/uFNeJsQ==" />      <input type="hidden" name="repository_id" value="272836174">
 
       <details class="details-reset details-overlay select-menu hx_rsm">
         <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:272836174,&quot;originating_url&quot;:&quot;https://github.com/Rocketseat/youtube-clone-discord/blob/master/src/assets/Logo.svg&quot;,&quot;user_id&quot;:32399013}}" data-hydro-click-hmac="9da0fcc96364d81cfc8a9daa41c8703a2252cc8490bb0b9b12401e337a196253" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
@@ -821,7 +821,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/Rocketseat/youtube-clone-discord/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="P6hmKgaRGZ/DDMmvwvQYshcrP4DIk1Y6ji+LniWZR9hc/2jPkfftFOw75OAo0boMhp0A4e1m3kCv0zA6sm1eNw==" />
+    <form class="starred js-social-form" action="/Rocketseat/youtube-clone-discord/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GWA9qbU99/s+f7sHnut6m0Z085Xheg3lDay0GkG5LBF6NzNMIlsDcBFIlkh0ztgl18LM9MSPhZ8sUA++1k01/g==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar Rocketseat/youtube-clone-discord" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:272836174,&quot;originating_url&quot;:&quot;https://github.com/Rocketseat/youtube-clone-discord/blob/master/src/assets/Logo.svg&quot;,&quot;user_id&quot;:32399013}}" data-hydro-click-hmac="61aea9f2bc795c7633739ebcc8b4b706d2b5c9dc2e61680511c8199c896fb692" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star-fill" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
 
@@ -831,7 +831,7 @@
            57
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/Rocketseat/youtube-clone-discord/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UMENQlTTnT4TDayt6fNjTRNDlAjKZACWLakm4u6t7WyyEGDjXgUPe8orC7yKDvBJCQZ5B29tzY56M80g/aVXrg==" />
+    <form class="unstarred js-social-form" action="/Rocketseat/youtube-clone-discord/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3s+dnJRPQXl3NKE6zm5gn0dfK0S4zDbejJ66fsYf06g8HvA9npnTPK4SBiutk/ObXRrGSx3F+8bbBFG81Rdpag==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star Rocketseat/youtube-clone-discord" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:272836174,&quot;originating_url&quot;:&quot;https://github.com/Rocketseat/youtube-clone-discord/blob/master/src/assets/Logo.svg&quot;,&quot;user_id&quot;:32399013}}" data-hydro-click-hmac="745037d48decc40d1d03aa238c1be87acfca174e134e82333013e88c7fa4b0f2" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
 
@@ -1132,13 +1132,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Rocketseat/youtube-clone-discord/edit/master/src/assets/Logo.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Dcl9CheYecm/PxetqwOezMDpgHifHs+qlnuix6UHTCNvAmWH/A2Y1UTBPWA3Bbwqg6RaFA34wX7GgaBWu1biPQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Rocketseat/youtube-clone-discord/edit/master/src/assets/Logo.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Pk6ANY9gMzTeR2Pn/TIaM4dWKNPOBoB5iBxUfR30xCVchZi4ZPXSKCW5SSphNDjVxBvyv1zgjq3Y5lbsA6VqOw==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Rocketseat/youtube-clone-discord/delete/master/src/assets/Logo.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lF4+WQv31YDcSql9RzglZ/bhXzRLr3S+pZ+K6/sa3DeFfijMlk9IMt8zE2P8Q5dHbJYaTIf/vkFLQkY7xj0gOA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Rocketseat/youtube-clone-discord/delete/master/src/assets/Logo.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XyWdElA3gayjSgsSWBqDB6hHceM4/IDOMWedjboyURpOBYuHzY8cHqAzsQzjYTEnMjA0m/SsSjHfulFdhxWtFQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
@@ -1155,14 +1155,14 @@
       
   <div class="render-wrapper ">
     <div class="render-container is-render-pending js-render-target  "
-      data-identity="d1acb8d9-b0cb-4a11-b08f-3f59e95bec72"
+      data-identity="c948b7f6-1e3b-4c4c-be1f-45356f4737e0"
       data-host="https://render.githubusercontent.com"
       data-type="svg">
       <img class="octospinner mx-auto" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64" />
       <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/Rocketseat/youtube-clone-discord/blob/master/src/assets/Logo.svg">Reload?</a></div>
       <div class="render-viewer-fatal">Sorry, we cannot display this file.</div>
       <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
-      <iframe class="render-viewer " src="https://render.githubusercontent.com/view/svg?commit=37c9bfbc79df618e0dbca52d4664fc71e2ba1e44&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f526f636b6574736561742f796f75747562652d636c6f6e652d646973636f72642f333763396266626337396466363138653064626361353264343636346663373165326261316534342f7372632f6173736574732f4c6f676f2e737667&amp;nwo=Rocketseat%2Fyoutube-clone-discord&amp;path=src%2Fassets%2FLogo.svg&amp;repository_id=272836174&amp;repository_type=Repository#d1acb8d9-b0cb-4a11-b08f-3f59e95bec72" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
+      <iframe class="render-viewer " src="https://render.githubusercontent.com/view/svg?commit=37c9bfbc79df618e0dbca52d4664fc71e2ba1e44&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f526f636b6574736561742f796f75747562652d636c6f6e652d646973636f72642f333763396266626337396466363138653064626361353264343636346663373165326261316534342f7372632f6173736574732f4c6f676f2e737667&amp;nwo=Rocketseat%2Fyoutube-clone-discord&amp;path=src%2Fassets%2FLogo.svg&amp;repository_id=272836174&amp;repository_type=Repository#c948b7f6-1e3b-4c4c-be1f-45356f4737e0" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
           Viewer requires iframe.
       </iframe>
     </div>
