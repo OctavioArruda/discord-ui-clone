@@ -1,93 +1,83 @@
 import styled from 'styled-components';
-
+import { Mic, Headset, Settings } from 'styled-icons/material';
 
 export const Container = styled.div`
-    grid-area: UL;
-    display: flex;
-    flex-direction: column;
-    
-    padding: 3px 6px 0 16px;
-    background-color: var(--secondary);
-
-    max-height: calc(100vh - 46px);
-    overflow-y: scroll;
-
-    ::-webkit-scrollbar {
-        width: 4px;
-    }
-
-    ::-webkit-scrollbar-thumb {
-        background-color: var(--tertiary);
-        border-radius: 4px;
-    }
-
-    ::-webkit-scrollbar-track {
-        background-color: var(--secondary);
-    }
+  grid-area: UI;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: var(--quaternary);
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 0px 0px;
 `;
-export const Role = styled.div`
-    margin-top: 20px;
 
-    text-transform: uppercase;
-    font-size: 12px;
-    font-weight: 500;
-
-    color: var(--gray);
+export const Profile = styled.div`
+  display: flex;
+  align-items: center;
 `;
-export const User = styled.div`
-    display: flex;
 
-    margin-top: 5px;
-    padding: 5px;
-    align-items: center;
-
-    cursor: pointer;
-
-    border-radius: 4px;
-    background: transparent;
-    transition: background .2s;
-
-    &:hover {
-        background: rgba(255, 255, 255, 0.1);
-    }
-
-    /* Username  */
-    > strong {
-        margin-left: 13px;
-        font-weight: 500;
-        color: var(--white);
-        opacity: 0.7;
-
-        white-space: nowrap;
-        text-overflow: ellipsis;
-        overflow: hidden;
-    }
-
-    /* Bot tag  */
-    > span {
-        margin-left: 9px;
-
-        background-color: var(--discord);
-        color: var(--white);
-        border-radius: 4px;
-        padding: 4px 5px;
-
-        text-transform: uppercase;
-
-        font-weight: bold;
-        font-size: 11px;
-    }
-`;
 export const Avatar = styled.div`
-    flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: var(--gray);
+`;
 
-    width: 32px;
-    height: 32px;
+export const UserData = styled.div`
+  margin-left: 8px;
+  display: flex;
+  flex-direction: column;
+  > strong {
+    color: var(--white);
+    font-size: 13px;
+    display: block;
+  }
+  > span {
+    color: var(--gray);
+    font-size: 13px;
+  }
+`;
 
-    background-color: var(--primary);
-    border-radius: 50%;
+export const Icons = styled.div`
+  display: flex;
+  align-items: center;
+  > svg:not(:first-child) {
+    margin-left: 7px;
+  }
+`;
 
-    &.bot {
-        background-color: var(--mention-detail);
-    }
+export const MicIcon = styled(Mic)`
+  width: 20px;
+  height: 20px;
+  color: var(--white);
+  opacity: 0.7;
+  cursor: pointer;
+  transition: opacity 0.2s;
+  &:hover {
+    opacity: 1;
+  }
+`;
+
+export const HeadphoneIcon = styled(Headset)`
+  width: 20px;
+  height: 20px;
+  color: var(--white);
+  opacity: 0.7;
+  cursor: pointer;
+  transition: opacity 0.2s;
+  &:hover {
+    opacity: 1;
+  }
+`;
+
+export const SettingsIcon = styled(Settings)`
+  width: 20px;
+  height: 20px;
+  color: var(--white);
+  opacity: 0.7;
+  cursor: pointer;
+  transition: opacity 0.2s;
+  &:hover {
+    opacity: 1;
+  }
 `;
