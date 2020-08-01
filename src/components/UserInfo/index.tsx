@@ -1,27 +1,35 @@
 import React from 'react';
 
-import { Container,
-         Profile,
-         Avatar,
-         UserData,
-         Icons,
-         MicIcon,
-         HeadphoneIcon,
-         SettingsIcon } from './styles';
+import { Container, Role, User, Avatar } from './styles';
+
+interface UserProps {
+    nickname: string;
+    isBot?: boolean;
+}
+
+const UserRow: React.FC<UserProps> = ({ nickname, isBot }) => {
+    return (
+        <User>
+            <Avatar className={isBot ? 'bot' :  ''}/>
+
+            <strong>{nickname}</strong>
+
+            {isBot && <span>Bot</span>}
+        </User>
+    );
+};
 
 const UserInfo: React.FC = () => {
     return (
         <Container>
-            <Profile>
-                <Avatar />
-                <UserData />
-            </Profile>
+            <Role>Disponível - 2</Role>
+            <UserRow nickname="Schifer" />
+            <UserRow nickname="Hyago" />
+            <UserRow nickname="Nycho" />
 
-            <Icons>
-                <MicIcon />
-                <HeadphoneIcon />
-                <SettingsIcon />
-            </Icons>
+            <Role>Offline - 2</Role>
+            <UserRow nickname="suba" isBot />
+            <UserRow nickname="Alka" />
         </Container>
     );
 };
